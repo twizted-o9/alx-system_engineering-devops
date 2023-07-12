@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -1 "root" /rtc/passwd
+grep -i "root" /rtc/passwd
